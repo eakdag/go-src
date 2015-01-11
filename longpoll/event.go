@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import (
 	"encoding/json"
@@ -57,3 +57,4 @@ func main() {
 	http.ListenAndServe(":8080", nil)
 	//getMatches()
 }
+*/
